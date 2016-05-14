@@ -1,0 +1,12 @@
+
+  
+    <string name="d2d_url">http://moiptvus-lh.akamaihd.net/i/d2dlive_1@328342/master.m3u8</string>
+    <string name="english_url">http://moiptvus-lh.akamaihd.net/i/3abnlive_1@328342/master.m3u8</string>
+    <string name="french_url">http://moiptvus-lh.akamaihd.net/i/frelive_1@328343/master.m3u8</string>
+    <string name="international_url">http://moiptvus-lh.akamaihd.net/i/intlive_1@328343/master.m3u8</string>
+    <string name="kidsnet_url">http://moiptvus-lh.akamaihd.net/i/kidslive_1@328343/master.m3u8</string>
+    <string name="proclaim_url">http://moiptvus-lh.akamaihd.net/i/prolive_1@328342/master.m3u8</string>
+    <string name="russian_url">http://moiptvus-lh.akamaihd.net/i/ruslive_1@328343/master.m3u8</string>
+    <string name="spanish_url">http://moiptvus-lh.akamaihd.net/i/latlive_1@328342/master.m3u8</string>
+    <string name="title_activity_schedule_data">ScheduleDataActivity</string>
+    <string name="title_activity_web_view">3ABN</string>
